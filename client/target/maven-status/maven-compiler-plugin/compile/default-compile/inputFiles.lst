@@ -1,0 +1,8 @@
+/home/users/bsc/droralo/Desktop/spl3/client/src/main/java/bgu/spl/net/impl/echo/EchoProtocol.java
+/home/users/bsc/droralo/Desktop/spl3/client/src/main/java/bgu/spl/net/impl/tftp/TftpClient.java
+/home/users/bsc/droralo/Desktop/spl3/client/src/main/java/bgu/spl/net/impl/tftp/TftpEncoderDecoder.java
+/home/users/bsc/droralo/Desktop/spl3/client/src/main/java/bgu/spl/net/api/MessagingProtocol.java
+/home/users/bsc/droralo/Desktop/spl3/client/src/main/java/bgu/spl/net/impl/echo/EchoClient.java
+/home/users/bsc/droralo/Desktop/spl3/client/src/main/java/bgu/spl/net/impl/echo/LineMessageEncoderDecoder.java
+/home/users/bsc/droralo/Desktop/spl3/client/src/main/java/bgu/spl/net/impl/tftp/ListeningThread.java
+/home/users/bsc/droralo/Desktop/spl3/client/src/main/java/bgu/spl/net/api/MessageEncoderDecoder.java
